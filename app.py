@@ -65,4 +65,4 @@ try:
             st.info("Results normal hain. Patient ko diabetes hone ka khatra kam hai.")
 
 except Exception as e:
-    st.error(f"Error loading model files: {e
+    st.error(f"Error loading model files: {e}")
